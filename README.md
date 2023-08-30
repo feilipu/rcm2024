@@ -6,13 +6,17 @@ The R2000 is substantially compatible with 8080 and Z80 processors, but implemen
 
 ## Concept
 
-The Rabbit® family of microprocessors is widely under-represented amongst hobby constructor, and very few (if any) "home made" RabbitCore® Modules have been developed. This RCM2024 is supposed to provide at least one option for hobby constructors and RC2014 enthusiasts.
+The Rabbit® family of microprocessors is under-represented amongst hobby constructors, and very few (if any) "home made" RabbitCore® Modules have been developed. This RCM2024 is supposed to provide at least one option for hobby constructors and RC2014 enthusiasts.
 
 The Rabbit microprocessor comes in many varieties, but the R2000 is the only version supporting 5V operation enabling it to work with the RC2014 Standard Bus. Therefore this RCM2024 is based on the R2000 Version C microprocessor.
 
-The RCM2024 can be operated as a) a RC2014 CPU Module using standard RC2014 Backplane and accessory Modules, b) a RC2014 combined Backplane and microprocessor system, and c) as a standalone single board computer with its own serial, memory, and mass storage support.
+The RCM2024 can be operated as;
 
-The R2000 microprocessor has 5x 8-bit parallel ports, in addition to the usual Z80 bus interface, enabling a variety of interfaces to be integrated on to the RCM2024. These include a 8-bit Compact Flash IDE Port, a SPI interface supporting SD Cards and general SPI Master operation, an I2C interface, and up to 4x asynchronous and clocked serial interfaces.
+ 1. a RC2014 CPU Module in a standard RC2014 Backplane and using standard RC2014 Modules,
+ 2. a RC2014 combined Backplane and microprocessor system supporting RC2014 Modules, and as
+ 3. a standalone single board computer (SBC) with its own serial, memory, and mass storage support.
+
+The R2000 microprocessor has 5 8-bit parallel ports, in addition to the usual Z80 bus interface, enabling a variety of interfaces to be integrated on to the RCM2024. These include a 8-bit Compact Flash IDE Port, a SPI interface supporting SD Cards and general SPI Master operation, an I2C interface, and up to 4x asynchronous and clocked serial interfaces.
 
 ## Hardware Specification
 
@@ -20,16 +24,16 @@ The RCM2024 is a double height RC2014 Module being 99.1mm wide x 99mm high, with
 
 Standard features include.
 
-- 245 kByte of NAND FLASH, using `WE0`, `OE0`, and `CS0`. This is the cold boot memory device.
+- 256 kByte of NAND FLASH, using `WE0`, `OE0`, and `CS0`. This is the cold boot memory device.
 - 1 MByte of Static RAM, using `WE0`, `OE0`, and `CS1`.
 
 - Cold boot, and serial programming Port A using a USB interface (FTDI).
-- 2 x asynchronous serial interfaces Port C and D with FTDI standard interfaces.
+- 2 x asynchronous serial interfaces Port C and D with FTDI standard connectors.
 
-- SPI synchronous serial interface Port B with Grove / Sparkfun interface supporting external SPI Slave devices, and onboard SD Card.
+- SPI synchronous serial interface Port B with Grove / Sparkfun connectors supporting external SPI Slave devices, and onboard SD Card.
 - SD Card cage for optional FAT32 formatted mass storage.
 
-- I2C interface (open drain) with Grove / Sparkfun interface supporting external I2C 5V or 3.3V Slave devices.
+- I2C interface (open drain) with Grove / Sparkfun connector supporting external I2C 5V or 3.3V Slave devices.
 
 - Compact Flash Module 8-bit IDE Interface for optional FAT32 formatted mass storage.
 
@@ -48,7 +52,7 @@ Standard features include.
 </tr>
 <tr>
 <td style="border: 1px solid #cccccc; padding: 6px;"></td>
-<td style="border: 1px solid #cccccc; padding: 6px;"></td>
+<td style="border: 1px solid #cccccc; padding: 6px;">0 - 7</td>
 <td style="border: 1px solid #cccccc; padding: 6px;">IDE Data</td>
 <td style="border: 1px solid #cccccc; padding: 6px;">8-Bit Compact Flash Interface</td>
 </tr>
