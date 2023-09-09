@@ -24,7 +24,7 @@ The RCM2024 is a double height RC2014 Module being 99.1mm wide x 99mm high, with
 
 Standard features include.
 
-- 256 kByte of NAND FLASH, using `WE0`, `OE0`, and `CS0`. This is the cold boot memory device.
+- 256 kByte of NOR FLASH, using `WE0`, `OE0`, and `CS0`. This is the cold boot memory device.
 - 1 MByte of Static RAM, using `WE0`, `OE0`, and `CS1`.
 
 - Cold boot, and serial programming Port A using a USB interface (FTDI).
@@ -38,6 +38,16 @@ Standard features include.
 - Compact Flash Module 8-bit IDE Interface for optional FAT32 formatted mass storage.
 
 - Also, the R2000 microprocessor has two Timers, and a Real Time clock capability, enabling time of day and interval timing.
+
+### Hardware Modularity
+
+To minimise the cost of the RCM2024 Module the majority of the accessory devices will be implemented as Sub-Modules.
+
+ - Power Supply Module - [Pololu D24V10F5](https://www.pololu.com/product/2831) - optional if used with RC2014 Backplane.
+ - SD Card Module - [Adafruit MicroSD Card Breakout](https://www.adafruit.com/product/254) - provides 3.3V to 5V bus conversion.
+ - Serial Module(s) - [Sparkfun FTDI Basic](https://www.sparkfun.com/products/9716) - FTDI Interface standard serial to USB conversion.
+
+Integrated accessories are RAM, NOR Flash, CF Card cage, RC2014 Z80 Bus using `WE1` and `OE1`, and Rabbit USB Programming Interface.
 
 ### Port Pin Assignment
 
