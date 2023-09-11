@@ -104,7 +104,7 @@ Sourcing from [Mouser](https://au.mouser.com/ProductDetail/Seeed-Studio/11402016
 <td style="border: 1px solid #cccccc; padding: 6px;"></td>
 <td style="border: 1px solid #cccccc; padding: 6px;">0 - 7</td>
 <td style="border: 1px solid #cccccc; padding: 6px;">IDE Data</td>
-<td style="border: 1px solid #cccccc; padding: 6px;">8-Bit Compact Flash Interface</td>
+<td style="border: 1px solid #cccccc; padding: 6px;">8-Bit IDE Compact Flash Interface</td>
 </tr>
 <tr>
 <th style="border: 1px solid #cccccc; padding: 6px;">Port B</th>
@@ -242,43 +242,43 @@ Sourcing from [Mouser](https://au.mouser.com/ProductDetail/Seeed-Studio/11402016
 <td style="border: 1px solid #cccccc; padding: 6px;"></td>
 <td style="border: 1px solid #cccccc; padding: 6px;">7</td>
 <td style="border: 1px solid #cccccc; padding: 6px;">IDE WR</td>
-<td style="border: 1px solid #cccccc; padding: 6px;">8-Bit Compact Flash Interface</td>
+<td style="border: 1px solid #cccccc; padding: 6px;">8-Bit IDE Compact Flash Interface</td>
 </tr>
 <tr>
 <td style="border: 1px solid #cccccc; padding: 6px;"></td>
 <td style="border: 1px solid #cccccc; padding: 6px;">6</td>
 <td style="border: 1px solid #cccccc; padding: 6px;">IDE RD</td>
-<td style="border: 1px solid #cccccc; padding: 6px;">8-Bit Compact Flash Interface</td>
+<td style="border: 1px solid #cccccc; padding: 6px;">8-Bit IDE Compact Flash Interface</td>
 </tr>
 <tr>
 <td style="border: 1px solid #cccccc; padding: 6px;"></td>
 <td style="border: 1px solid #cccccc; padding: 6px;">5</td>
 <td style="border: 1px solid #cccccc; padding: 6px;">IDE CS1</td>
-<td style="border: 1px solid #cccccc; padding: 6px;">8-Bit Compact Flash Interface</td>
+<td style="border: 1px solid #cccccc; padding: 6px;">8-Bit IDE Compact Flash Interface</td>
 </tr>
 <tr>
 <td style="border: 1px solid #cccccc; padding: 6px;"></td>
 <td style="border: 1px solid #cccccc; padding: 6px;">4</td>
 <td style="border: 1px solid #cccccc; padding: 6px;">IDE CS0</td>
-<td style="border: 1px solid #cccccc; padding: 6px;">8-Bit Compact Flash Interface</td>
+<td style="border: 1px solid #cccccc; padding: 6px;">8-Bit IDE Compact Flash Interface</td>
 </tr>
 <tr>
 <td style="border: 1px solid #cccccc; padding: 6px;"></td>
 <td style="border: 1px solid #cccccc; padding: 6px;">3</td>
 <td style="border: 1px solid #cccccc; padding: 6px;">IDE A2</td>
-<td style="border: 1px solid #cccccc; padding: 6px;">8-Bit Compact Flash Interface</td>
+<td style="border: 1px solid #cccccc; padding: 6px;">8-Bit IDE Compact Flash Interface</td>
 </tr>
 <tr>
 <td style="border: 1px solid #cccccc; padding: 6px;"></td>
 <td style="border: 1px solid #cccccc; padding: 6px;">2</td>
-<td style="border: 1px solid #cccccc; padding: 6px;">IDE A0</td>
-<td style="border: 1px solid #cccccc; padding: 6px;">8-Bit Compact Flash Interface</td>
+<td style="border: 1px solid #cccccc; padding: 6px;">IDE A1</td>
+<td style="border: 1px solid #cccccc; padding: 6px;">8-Bit IDE Compact Flash Interface</td>
 </tr>
 <tr>
 <td style="border: 1px solid #cccccc; padding: 6px;"></td>
 <td style="border: 1px solid #cccccc; padding: 6px;">1</td>
 <td style="border: 1px solid #cccccc; padding: 6px;">IDE A0</td>
-<td style="border: 1px solid #cccccc; padding: 6px;">8-Bit Compact Flash Interface</td>
+<td style="border: 1px solid #cccccc; padding: 6px;">8-Bit IDE Compact Flash Interface</td>
 </tr>
 <tr>
 <td style="border: 1px solid #cccccc; padding: 6px;"></td>
