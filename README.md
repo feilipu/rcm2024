@@ -54,38 +54,38 @@ Integrated accessories are RAM, NOR Flash, CF Card cage, RC2014 Z80 Bus using `W
 
 The following devices are on the RCM2024 Module
 
-<b>R2000 Microprocessor</b>
-Manufacturer - Digi International
-Manufacturer Product Number - 20-668-0003
+<b>R2000 Microprocessor</b><br>
+Manufacturer - Digi International<br>
+Manufacturer Product Number - 20-668-0003<br>
 Sourcing from [Mouser](https://au.mouser.com/ProductDetail/DIGI/20-668-0003?qs=h7SQhMV2qI2v0rAEPCUB8A%3D%3D)
 
-<b>SRAM 1MB x 8</b>
-Manufacturer - Infineon Technologies
-Manufacturer Product Number - CY62158ELL-45ZSXI
+<b>SRAM 1MB x 8</b><br>
+Manufacturer - Infineon Technologies<br>
+Manufacturer Product Number - CY62158ELL-45ZSXI<br>
 Sourcing from [Mouser](https://au.mouser.com/ProductDetail/Infineon-Technologies/CY62158ELL-45ZSXI?qs=k2piNBSag3%2FbPFa6bGnpTA%3D%3D)
 
-<b>NOR Flash 512kB x 8</b>
-Manufacturer - Microchip Technology
-Manufacturer Product Number - SST39SF040-55-4I-WHE
+<b>NOR Flash 512kB x 8</b><br>
+Manufacturer - Microchip Technology<br>
+Manufacturer Product Number - SST39SF040-55-4I-WHE<br>
 Sourcing from [Mouser](https://au.mouser.com/ProductDetail/Microchip-Technology/SST39SF040-55-4I-WHE?qs=Ot24P6tC%2FQ4H1AkrSlmtNw%3D%3D)
 
-<b>Power Supervision</b>
-Manufacturer - Analog Devices / Maxim Integrated
-Manufacturer Product Number - DS1233DZ-5+
+<b>Power Supervision</b><br>
+Manufacturer - Analog Devices / Maxim Integrated<br>
+Manufacturer Product Number - DS1233DZ-5+<br>
 Sourcing from [Mouser](https://au.mouser.com/ProductDetail/Analog-Devices-Maxim-Integrated/DS1233DZ-5%2b?qs=0Y9aZN%252BMVCXL0FvBiwYcRQ%3D%3D)
 
-<b>Main Oscillator Crystal - 29.4912 MHz SMT</b>
+<b>Main Oscillator Crystal - 29.4912 MHz SMT</b><br>
 
-<b>RTC Oscillator Crystal - 32.768 kHz SMT</b>
+<b>RTC Oscillator Crystal - 32.768 kHz SMT</b><br>
 
-<b>Compact Flash Card Connector</b>
-Manufacturer - ATTEND Technology
-Manufacturer Product Number - 101D-TAAA-R01
+<b>Compact Flash Card Connector</b><br>
+Manufacturer - ATTEND Technology<br>
+Manufacturer Product Number - 101D-TAAA-R01<br>
 Sourcing from [Digikey](https://www.digikey.co.uk/en/products/detail/attend-technology/101D-TAAA-R01/21284924)
 
-<b>Grove I2C Connector</b>
-Manufacturer - Seeed Studio
-Manufacturer Product Number - 114020164
+<b>Grove I2C Connector</b><br>
+Manufacturer - Seeed Studio<br>
+Manufacturer Product Number - 114020164<br>
 Sourcing from [Mouser](https://au.mouser.com/ProductDetail/Seeed-Studio/114020164?qs=7MVldsJ5Uayw%2FOfizq4F8w%3D%3D&mgh=1&vip=1&gclid=Cj0KCQjw0vWnBhC6ARIsAJpJM6ccTrkdiWTo3hYb-w90yz-BwvWj4Sbol2SJHF1jbXY-PI2Z1vYyWiAaAhruEALw_wcB)
 
 
