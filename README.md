@@ -27,15 +27,14 @@ Standard features include.
 - 512 kByte of NOR FLASH, using `WE0`, `OE0`, and `CS0`. This is the cold boot memory device.
 - 1 MByte of Static RAM, using `WE0`, `OE0`, and `CS1`.
 
-- Cold boot, and serial programming Port A using a USB interface (FTDI Interface full breakout).
-- 2 x asynchronous serial interfaces Port C and D with FTDI Interface standard connectors.
+- Cold boot and serial programming interface Port A using a USB interface with a FTDI Interface standard connector.
+- 2 x asynchronous serial interfaces Port C and D using a USB interface with FTDI Interface standard connectors.
 
 - SPI synchronous serial interface Port B with Sparkfun connector supporting external SPI Slave devices, and onboard SD Card.
-- SD Card cage for optional FAT32 formatted mass storage.
-
 - I2C interface (open drain) with Seeed Grove connector supporting external I2C 5V or 3.3V Slave devices.
 
 - Compact Flash Module 8-bit IDE Interface for optional FAT32 formatted mass storage.
+- SD Card cage and level conversion for optional FAT32 formatted mass storage.
 
 - Also, the R2000 microprocessor has two Timers, and a Real Time clock capability, enabling time of day and interval timing.
 
@@ -44,9 +43,9 @@ Standard features include.
 To minimise the cost of the RCM2024 Module the majority of the accessory devices will be implemented as Sub-Modules.
 
  - Power Supply Module - [Pololu D24V10F5](https://www.pololu.com/product/2831) - optional if used with RC2014 Backplane.
- - SD Card Module - [Adafruit MicroSD Card Breakout](https://www.adafruit.com/product/254) - provides 3.3V to 5V bus conversion.
+ - SD Card Module - [Adafruit MicroSD Card Breakout](https://www.adafruit.com/product/254) - provides 3.3V to 5V bus level conversion.
  - Serial Interface Module(s) - [SparkFun FTDI Basic](https://www.sparkfun.com/products/9716) - FTDI Interface standard serial to USB conversion.
- - Programming Serial Interface Module - [SparkFun FT231X Breakout](https://www.sparkfun.com/products/13263) - FTDI Interface with full breakout for Rabbit Programming.
+ - Programming Serial Interface Module - [SparkFun FTDI Basic](https://www.sparkfun.com/products/9716) - FTDI Interface standard serial to USB conversion.
 
 Integrated accessories are RAM, NOR Flash, CF Card cage, and RC2014 Z80 Bus using `WE1` and `OE1`.
 
@@ -79,9 +78,9 @@ Sourcing from [Mouser](https://au.mouser.com/ProductDetail/Analog-Devices-Maxim-
 <b>RTC Oscillator Crystal - 32.768 kHz SMT</b><br>
 
 <b>Compact Flash Card Connector</b><br>
-Manufacturer - ATTEND Technology<br>
-Manufacturer Product Number - 101D-TAAA-R01<br>
-Sourcing from [Digikey](https://www.digikey.co.uk/en/products/detail/attend-technology/101D-TAAA-R01/21284924)
+Manufacturer - Hirose Connector<br>
+Manufacturer Product Number - MI20-50PD-SF(71)<br>
+Sourcing from [Mouser](https://au.mouser.com/ProductDetail/Hirose-Connector/MI20-50PD-SF71?qs=eDUdFcBPps3CD9QqnT14AQ%3D%3D)
 
 <b>Grove I2C Connector</b><br>
 Manufacturer - Seeed Studio<br>
